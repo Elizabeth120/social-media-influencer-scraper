@@ -1,0 +1,5 @@
+{
+  "timeout_seconds": 10,
+  "max_retries": 3,
+  "user_agent": "InfluencerScraperBot/1.0"
+}
